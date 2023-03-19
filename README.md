@@ -1,0 +1,2 @@
+# Classifier-Performance-Across-Diverse-Datasets-Evaluating-and-Comparing-Machine-Learning-Models
+In this project, we examine the performance of various classifiers on multiple datasets, including the Iris plant dataset, Breast cancer Wisconsin (diagnostic) dataset, Optical recognition of handwritten digits dataset, Wine recognition dataset, 20 newsgroups text (vectorized) dataset, and Labeled Faces in the Wild face recognition dataset.
